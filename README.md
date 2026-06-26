@@ -11,7 +11,7 @@
 
 ## 🏆 Highlights:
 * B.Tech CSE Student
-* Organized 5+ hackathons and tech events with my college tech club
+* Organized 5+ hackathons and tech events with Code Rangers Community
 * Hackathon participant
 * Spotlight Speaker at MasterCard's AI Garage floorwalk — 1 of 3 students shortlisted to present my project
 
